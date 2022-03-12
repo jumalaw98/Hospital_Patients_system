@@ -3,7 +3,7 @@
    
    if(session_destroy()) {
    
-  echo "<script>location='p.login.php'</script>";
-      //header("Location: login.php");
+  echo "<script>location='index.html'</script>";
+      //header("Location: index.html);
    }
 ?>
