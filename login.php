@@ -46,6 +46,7 @@ include "handle_glogin.php";
                         <hr>
                         <div class="form-group text-center">
                             <button onclick="window.location='<?php echo $login_url;?>'" type="button" class="btn btn-danger rounded-pill">Login with Google</button>
+                        
                         </div>
                         <div class="text-center register-link">
                             Don�t have an account? <a href="register.php">Register Now</a><br>

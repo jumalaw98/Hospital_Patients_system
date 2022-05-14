@@ -3,7 +3,7 @@
 include "connection.php";
 
 
-if(isset($_POST["register"])){
+salon_database
 
     $fname = $_POST["fname"];
     $sname = $_POST["sname"];
